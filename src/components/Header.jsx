@@ -5,7 +5,7 @@ const Header = () => {
     <header className="w-full fixed top-0 left-0 bg-c2pDarkBlue text-white px-6 py-4 flex justify-between items-center shadow-md z-50">
       <div className="flex items-center gap-4">
         <img
-          src="./src/assets/image2.png"
+          src="/image2.png"
           alt="Logo C2P"
           className="h-12 w-auto"
         />
